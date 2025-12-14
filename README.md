@@ -1,4 +1,4 @@
-A game about a button
+A game about a button  
 MSCH-C220 Final Project
 
 ## Theme
