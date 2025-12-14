@@ -9185,7 +9185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"interactTooltip","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
-      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"canInteract","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"canInteract","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"canMove","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
@@ -14966,37 +14966,37 @@ PrefabInstance:
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.615
+      value: 7.598
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.925
+      value: 1.1012
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.1508
+      value: 11.028
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.7071068
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
@@ -15006,7 +15006,7 @@ PrefabInstance:
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 2240734695629902434, guid: 3c8c325b3dbef6d4b9fdcbf0e1942222,
         type: 3}
